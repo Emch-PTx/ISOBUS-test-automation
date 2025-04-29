@@ -1,0 +1,7 @@
+[32mINFO    [0m weedseeker:test_cases.py:163 [sample_logging] Starting test: sample_logging
+TEST_STEP weedseeker:test_logger.py:82 [sample_logging] Step 1: Log something informative
+[32mINFO    [0m weedseeker:test_cases.py:165 [sample_logging] This is an info log.
+TEST_STEP weedseeker:test_logger.py:82 [sample_logging] Step 2: Log a warning
+[33mWARNING [0m weedseeker:test_cases.py:167 [sample_logging] This is a warning log.
+TEST_STEP weedseeker:test_logger.py:82 [sample_logging] Step 3: Log a success
+SUCCESS  weedseeker:test_logger.py:78 [sample_logging] Test completed successfully!

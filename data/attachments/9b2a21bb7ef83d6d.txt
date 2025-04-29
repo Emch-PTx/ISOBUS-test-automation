@@ -1,0 +1,4 @@
+[37m2025-04-29 14:43:32 - INFO     - [sample_logging] Starting test: sample_logging[0m
+[37m2025-04-29 14:43:32 - INFO     - [sample_logging] This is an info log.[0m
+[33m2025-04-29 14:43:32 - WARNING  - [sample_logging] This is a warning log.[0m
+[32m2025-04-29 14:43:32 - SUCCESS  - [sample_logging] Test completed successfully![0m

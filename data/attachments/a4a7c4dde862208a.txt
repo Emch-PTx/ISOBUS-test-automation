@@ -1,0 +1,7 @@
+INFO:weedseeker:[sample_logging] Starting test: sample_logging
+TEST_STEP:weedseeker:[sample_logging] Step 1: Log something informative
+INFO:weedseeker:[sample_logging] This is an info log.
+TEST_STEP:weedseeker:[sample_logging] Step 2: Log a warning
+WARNING:weedseeker:[sample_logging] This is a warning log.
+TEST_STEP:weedseeker:[sample_logging] Step 3: Log a success
+SUCCESS:weedseeker:[sample_logging] Test completed successfully!
